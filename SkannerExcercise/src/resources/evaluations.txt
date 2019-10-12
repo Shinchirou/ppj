@@ -1,0 +1,3 @@
+An,siLny, 12,16 ,  41
+Ewa,Cudna,   20,   20, 60
+Mateusz, BobeR, 0, 0, 0
