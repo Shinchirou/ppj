@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Traffic/Traffic.iml" filepath="$PROJECT_DIR$/Traffic/Traffic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/directInjection/directInjection.iml" filepath="$PROJECT_DIR$/directInjection/directInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/multipTable/multipTable.iml" filepath="$PROJECT_DIR$/multipTable/multipTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/ppj.iml" filepath="$PROJECT_DIR$/ppj.iml" />
       <module fileurl="file://$PROJECT_DIR$/salaryCalculator/salaryCalculator.iml" filepath="$PROJECT_DIR$/salaryCalculator/salaryCalculator.iml" />
