@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/multipTable/multipTable.iml" filepath="$PROJECT_DIR$/multipTable/multipTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/ppj.iml" filepath="$PROJECT_DIR$/ppj.iml" />
       <module fileurl="file://$PROJECT_DIR$/salaryCalculator/salaryCalculator.iml" filepath="$PROJECT_DIR$/salaryCalculator/salaryCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/systemFileViewer/systemFileViewer.iml" filepath="$PROJECT_DIR$/systemFileViewer/systemFileViewer.iml" />
     </modules>
   </component>
 </project>

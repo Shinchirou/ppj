@@ -1,28 +1,48 @@
 package sorting;
 
-
-import sorting.BubbleSort;
-import sorting.ISort;
 import java.time.Duration;
 import java.time.Instant;
 
+/** Klasa testowa
+ <p> To jest klasa testowa
+ </p>
+ @author Shin
+ @version 1.0
+ @see ISort
+ */
+
 public class TestSort {
+
+
+    /**
+     * @param iSort abstract class
+     */
 
     public ISort iSort;
 
-public TestSort(ISort sortMethod){
-    this.iSort = sortMethod;
-}
+    /**
+     * @param sortMethod class with implementation of different types of sorting methods
+     */
 
-    public void test(double[] array){
+    public TestSort(ISort sortMethod) {
+        this.iSort = sortMethod;
+    }
 
-        for(int i = 0; i < array.length; i++){
+    /**
+     * Method tests how much time it takes for different
+     *
+     * @param array array with not sorted values generated automatically
+     */
+
+    public void test(double[] array) {
+
+        for (int i = 0; i < array.length; i++) {
             System.out.print(array[i] + ", ");
         }
         System.out.println();
         Instant start = Instant.now();
         iSort.sort(array);
-        for(int i = 0; i < array.length; i++){
+        for (int i = 0; i < array.length; i++) {
             System.out.print(array[i] + ", ");
         }
         System.out.println();
